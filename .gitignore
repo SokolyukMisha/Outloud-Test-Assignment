@@ -70,3 +70,31 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Project/Library
+Project/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+
+Project/Temp/FSTimeGet-a9771100309288e4588bb55643983387
+
+Project/Temp/UnityLockfile
+
+Project/Temp/
+
+*.xml
+
+Project/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+/Project/Logs
+
+*.log
+
+Project/obj/Debug/
+
+Project/UserSettings/Layouts/
+
+# Ignore the auto-generated AOT compatibility dll.
+/Assets/Plugins/Sirenix/Assemblies/AOT/*
+
+# Ignore all unpacked demos.
+/Assets/Plugins/Sirenix/Demos/*
+
+# But keep the demo packages themselves.
+!/Assets/Plugins/Sirenix/Demos/*.unitypackage 
